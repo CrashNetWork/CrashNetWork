@@ -9599,16 +9599,13 @@ HOLO_REWARDS:
 
 HOLO_DONATE:
 - '§eПривилегии:'
-- '%pvip§f - §5%dvip §fрублей'
-- '%ppremium§f - §5%dpremium §fрублей'
-- '%pultra§f - §5%dultra §fрублей'
-- '%pclassik§f - §5%dclassik §fрублей'
-- '%animation%§lDELUX§f - §b%ddelux §fрублей'
-- '%animation%§lIMPERATOR§f - §b%dimperator §fрублей'
-- '%animation%§lHELPER§f - §b%dhelper §fрублей'
-- '%animation%§lBOSS§f - §b%dboss §fрублей'
+- '%pgold§f - §b%dgold §fрублей'
+- '%pemerald§f - §b%demerald §fрублей'
+- '%pgolem§f - §b%dgolem §fрублей'
+- '%pdiamond§f - §b%ddiamond §fрублей'
+- '%animation%§lENDERMAN§f - §b%denderman §fрублей'
 - '§fПокупать на сайте:'
-- '%animation%www.filkworld.cf'
+- '%animation%§l§n§owww.filkworld.cf'
 
 HOLO_ONLINE_UPDATER: '§fНа режиме играет §6%s'
 HOLO_SELECTOR_GAME_CHANNEL: '§7Нажмите, чтобы подключиться'
