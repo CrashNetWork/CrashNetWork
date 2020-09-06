@@ -1287,10 +1287,8 @@ MAIL_JOIN_HOVER:
 - '§f§oНажмите сюда,'
 - '§f§oчтобы открыть список писем'
 
-#§7Наш Discord: §6discord.gg/
-#§6http://crashnetwork.ru
-MSG_TITLE: '§bГруппа: §avk.com/crashnetwork'
-MSG_SUBTITLE: '§bНаш discord: §ddis.crashnetwork.ru'
+MSG_TITLE: '§e§l➹ §6§lCrash§f§lNetWork §e§l➷'
+MSG_SUBTITLE: '§e§lЛучшие §d§lмини игры§f - §b§lТОП'
 #§fпромокод §adesign§f на скидку §c35%
 #§7Группа: §cvk.com/crashnetwork
 
