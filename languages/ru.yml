@@ -1231,18 +1231,11 @@ LEVEL_NOT:
 SERVER_QUEUE: '§aСервер §8| §fТелепортация на сервер §a%s'
 
 TAB_HEADER:
-- '§a§lFlyCore'
-- ''
-- '§fОбщий онлайн: §b%go'
-- '§fОнлайн-магазин:'
-- '§bwww.crashnetwork.ru'
-- ''
+- '§6§lCrash §f§lNetWork   §a%s'
 TAB_FOOTER:
-- ''
-- '§fВы находитесь на сервере:'
-- '§b%s'
+- '§fЗаходи §ecrashnetwork.ru§f топовые вещи!'
 TAB_GAME:
-- '§fКарта: §b%s'
+- '§fКарта: §c%s'
 
 JOIN_WARNING_IP_CHANGE: '§c⚠ Внимание! §fВаш §cip адрес§f прошлой сессии не совпадает, наведите сюда и проверьте'
 JOIN_WARNING_HOVER:
