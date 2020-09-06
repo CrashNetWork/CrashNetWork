@@ -1402,11 +1402,17 @@ ITEM_SETTING_LORE:
 ITEM_STATS_LORE:
 - '§7Игровая статистика'
 - '§7со всех режимов'
+ITEM_TITLE_LORE:
+- '§7Позволяет купить или активировать'
+- '§7уже купленные титулы'
 ITEM_START_NAME: '§6§lЗапустить игру'
 ITEM_START_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы запустить игру на арене'
-HELP_ITEM_USE: '§d[ПКМ]'
+HELP_ITEM_USE: '§8[ПКМ]'
+HELP_IREM_LORE:
+- ''
+- '§8▶ Нажмите, мышью для использования'
 
 TRAINING_PREFIX: '§aОбучение §8| §f'
 TRAINING_PREFIX_HOVER: '   §8 -| §6§lОбучение §8|-'
